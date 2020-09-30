@@ -1,0 +1,23 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todoApp.js",
+  "dependencies": {
+    "jest": "^26.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgeniBR/node---todo-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgeniBR/node---todo-list/issues"
+  },
+  "homepage": "https://github.com/EvgeniBR/node---todo-list#readme"
+}
